@@ -1,0 +1,5 @@
+the two algorithms cosidered as dynamic programing because 2 of them use additional memory to save the previous computation results
+ in order to save duplicate computation efforts.
+
+they also solve each sub problem once and store their solutions in an array for later use.
+to back from the array the best solution or the optimal solutions.
